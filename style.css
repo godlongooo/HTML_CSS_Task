@@ -1,0 +1,188 @@
+.logo{
+    float: left;
+    margin-right: 400px;
+    width: 200px;
+    height: auto;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    padding: 22px;
+}
+
+.l1{
+    color: black;
+    text-decoration: none;
+}
+
+.l1:hover{
+    opacity:0.5;
+}
+
+.l2{
+    color: black;
+    text-decoration: none;
+}
+
+.l2:hover{
+    opacity:0.5;
+}
+
+.l3{
+    color: black;
+    text-decoration: none;
+}
+
+.l3:hover{
+    opacity:0.5;
+}
+
+.l4{
+    color: black;
+    text-decoration: none;
+}
+
+.l4:hover{
+    opacity:0.5;
+}
+
+.l5{
+    color: black;
+    text-decoration: none;
+}
+
+.l5:hover{
+    opacity:0.5;
+}
+
+.btn{
+    color: white;
+    align-items: center;
+    background-color: #f79214;
+    text-decoration: none;
+    border-radius: 38px;
+    padding: 12px;
+}
+
+.btn:hover{
+    opacity: 0.5;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 38px;
+    margin-left: 200px;
+}
+
+.title p{
+    margin-bottom: 5px;
+}
+
+.first{
+    margin-left: 90px;
+}
+
+.img{
+    display: flex;
+}
+
+.img1{
+    margin: 40px 20px 40px 150px;
+}
+
+.img2{
+    margin: 10px;
+}
+
+.img3{
+    margin: 40px 80px 40px 20px;
+}
+
+.btn2{
+    font-weight: bold;
+    color: white;
+    align-items: center;
+    background-color: #f79214;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 38px;
+    padding: 20px;
+    margin-left: 160px;
+}
+
+.btn2:hover{
+    opacity: 0.5;
+}
+
+.btn3{
+    font-weight: bold;
+    color: black;
+    align-items: center;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    border: 1px solid #C0C0C0;
+    border-radius: 38px;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.btn3:hover{
+    opacity: 0.5;
+}
+
+.text{
+    font-size: 8px;
+    color: #C0C0C0;
+    margin: 30px 0px 0px 150px;
+}
+
+
+
+
+.video1{
+    float:left;
+    width: 25%;
+    height:auto;
+    margin: 15px 60px 15px 180px;
+}
+
+
+.title2{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title2 p {
+    word-wrap: break-word;
+    width: 1200px;
+}
+
+
+.btn4{
+    color: white;
+    text-decoration: none;
+}
+
+
+.section1{
+    background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.section2{
+    background-color: orange;
+}
